@@ -42,4 +42,5 @@ This file is intended for the use of antithetic variables. It prints the outcome
 When running this file we get figure 4. 
 
 - CV.py<br>
-This file was intended for control variates. However, this you can neglect this file.
+This file was intended for control variates. However, you can neglect this file.
+
